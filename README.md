@@ -8,8 +8,6 @@ Overview of sales performance metrics.
 Product analysis including best-selling products and revenue by category.
 Customer segmentation based on various criteria.
 Regional analysis with maps and charts.
-Time-series analysis for identifying trends and patterns.
-Customizable reports and data export options.
 
 Technology used :
 python : used to clean and manipulate the data 
